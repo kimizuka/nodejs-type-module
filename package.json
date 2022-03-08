@@ -1,0 +1,9 @@
+{
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
